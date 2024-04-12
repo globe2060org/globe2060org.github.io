@@ -23,8 +23,6 @@ To ensure the reliability of our database, we used the [IEA dataset](https://www
 
 <img src="About%20IBED.png" alt="About IBED" style="zoom:120%;" />
 
-In the new electric vehicles section, we estimated the operational energy consumption and carbon emissions of the top-20 selling battery electric vehicles (BEV) and plug-in hybrid electric vehicles (PHEV) across three distinct climate zones—North China, Yangtze River Middle Reach, and South China— from 2020 to 2022 based on a standardized bottom-up end-use model.
-
 
 
 ## Publications of GLOBE

@@ -207,8 +207,6 @@ In 2023, some of GLOBE's noteworthy applications have been featured in internati
 
 For additional information, including **detailed energy activities of residential buildings' end uses, commercial building stocks, and energy and emissions of commercial buildings' end uses**, you can contact the project leader, [Dr. Minda Ma](https://buildings.lbl.gov/people/minda-ma), at <maminda@lbl.gov>. We will provide the requested information upon reasonable request.
 
-For the test data sources, you can [click here](https://github.com/globe2060org/globe2060org.github.io/raw/main/test_xlsx.xlsx) to download the related files.
-
 
 
 ## ArchTracking
@@ -233,7 +231,6 @@ A timely analysis for carbon emission reduction in buildings is an effective glo
     color: #999;
     padding: 2px;">Research flow chart and conceptual diagram illustrating the architecture of PyLMDI</div>
 </center>
-
 
 
 **Source codes**
@@ -286,8 +283,6 @@ By unifying the evaluation indicators, the dataset empowers building science res
     color: #999;
     padding: 2px;"></div>
 </center>
-
-
 
 
 

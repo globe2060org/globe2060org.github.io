@@ -8,7 +8,7 @@ Global Building Emissions (GLOBE) Database
 
 A multi-regional dataset aims to monitor energy trends, emissions mitigation, and building stock on a global scale.
 
-GLOBE was initially proposed by [Dr. Minda Ma](https://buildings.lbl.gov/people/minda-ma) in 2021, and now it is a project led by [Lawrence Berkeley National Laboratory<img src='./image/logo-LBNL.png' style='width: 4em;'>](https://buildings.lbl.gov/)(LBNL, operated by UC Berkeley for U.S. DOE), [Tsinghua University<img src='./image/logo-THQ.png' style='width: 4em;'>](https://www.tsinghua.edu.cn), and [Chongqing University<img src='./image/logo_CQU.png' style='width: 4em;'>](https://www.cqu.edu.cn).
+GLOBE was initially proposed by [Dr. Minda Ma](https://buildings.lbl.gov/people/minda-ma) in 2021, and now it is a project led by [Lawrence Berkeley National Laboratory<img src='./image/logo-LBNL.png' style='width: 4em;'>](https://buildings.lbl.gov/)(LBNL, operated by UC Berkeley for U.S. DOE) and [Chongqing University<img src='./image/logo_CQU.png' style='width: 4em;'>](https://www.cqu.edu.cn).
 
 <div align=left><img  src="GLOBE LOGO.png" width=30%/> </div> 
 Global Building Emissions (**GLOBE**) Database (http://globe2060.org and  https://globe.lbl.gov, also known as the second generation of **IBED**: https://ibed.world)
@@ -27,14 +27,30 @@ To ensure the reliability of our database, we used the [IEA dataset](https://www
 
 ## Publications of GLOBE
 
-In 2023, some of GLOBE's noteworthy applications have been featured in international journals like *Advances in Applied Energy*, *Applied Energy*, and *Sustainable Cities and Society*.
-[1] Xiang X, Zhou N, Ma M\*, Feng W, Yan R. Global transition of operational carbon in residential buildings since the millennium. *Advances in Applied Energy* 2023;11:100145.
-[2] Yan R, Ma M\*, Zhou N, Feng W, Xiang X, Mao C. Towards COP27: Decarbonization patterns of residential building in China and India. *Applied Energy* 2023;352:122003.
-[3] Yan R, Chen M, Xiang X, Feng W, Ma M\*. Heterogeneity or illusion? Track the carbon Kuznets curve of global residential building operations. *Applied Energy* 2023;347:121441.
-[4] Zhang S, Zhou N, Feng W, Ma M\*, Xiang X, You K. Pathway for decarbonizing residential building operations in the US and China beyond the mid-century. *Applied Energy* 2023;342:121164.
-[5] Chen L, Ma M\*, Xiang X. Decarbonizing or illusion? How carbon emissions of commercial building operations change worldwide. *Sustainable Cities and Society* 2023;96:104654.
-[6] Xiang X, Ma M\*, Ma X, Chen L, Cai W, Feng W, et al. Historical decarbonization of global commercial building operations in the 21st century. *Applied Energy* 2022;322:119401.
-[7] Zhang S, Ma M*, Xiang X, Cai W, Feng W, Ma Z. Potential to decarbonize the commercial building operation of the top two emitters by 2060. *Resources, Conservation and Recycling* 2022;185:106481.
+In 2023-2024, some of GLOBE's noteworthy applications have been featured in international journals like *Nexus (Cell Press Partner Journal)*, *Advances in Applied Energy*, *Applied Energy*, and *Sustainable Cities and Society*.
+
+[1] Zhang S, Ma M, Zhou N, Yan J, Feng W, Yan R, et al. Estimation of Global Building Stocks by 2070: Unlocking Renovation Potential. *Nexus* 2024.
+[2] Yuan H, Ma M, Zhou N, Xie H, Ma Z, Xiang X, Ma X. Battery electric vehicle charging in China: Energy demand and emissions trends in the 2020s. *Applied Energy* 2024;365:123153.
+[3] Xiang X, Zhou N, Ma M\*, Feng W, Yan R. Global transition of operational carbon in residential buildings since the millennium. *Advances in Applied Energy* 2023;11:100145.
+[4] Yan R, Ma M\*, Zhou N, Feng W, Xiang X, Mao C. Towards COP27: Decarbonization patterns of residential building in China and India. *Applied Energy* 2023;352:122003.
+[5] Yan R, Chen M, Xiang X, Feng W, Ma M\*. Heterogeneity or illusion? Track the carbon Kuznets curve of global residential building operations. *Applied Energy* 2023;347:121441.
+[6] Zhang S, Zhou N, Feng W, Ma M\*, Xiang X, You K. Pathway for decarbonizing residential building operations in the US and China beyond the mid-century. *Applied Energy* 2023;342:121164.
+[7] Chen L, Ma M\*, Xiang X. Decarbonizing or illusion? How carbon emissions of commercial building operations change worldwide. *Sustainable Cities and Society* 2023;96:104654.
+[8] Xiang X, Ma M\*, Ma X, Chen L, Cai W, Feng W, et al. Historical decarbonization of global commercial building operations in the 21st century. *Applied Energy* 2022;322:119401.
+[9] Zhang S, Ma M*, Xiang X, Cai W, Feng W, Ma Z. Potential to decarbonize the commercial building operation of the top two emitters by 2060. *Resources, Conservation and Recycling* 2022;185:106481.
+
+
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="image\Nexus Graphical Abstract.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Source: https://doi.org/10.1016/j.ynexs.2024.100019</div>
+</center>
 
 
 
@@ -51,8 +67,6 @@ In 2023, some of GLOBE's noteworthy applications have been featured in internati
 
 
 
-
-
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -63,8 +77,6 @@ In 2023, some of GLOBE's noteworthy applications have been featured in internati
     color: #999;
     padding: 2px;">Source: https://doi.org/10.1016/j.apenergy.2023.122003</div>
 </center>
-
-
 
 
 
@@ -273,17 +285,20 @@ GLOBUS’s primary contribution lies in providing a dataset of global building s
 
 By unifying the evaluation indicators, the dataset empowers building science researchers to perform comparative analyses based on floorspace. 
 
+For more details, please refer to https://doi.org/10.1016/j.ynexs.2024.100019.
+
+
+
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="GLOBUS.png">
+    src="image\Nexus Graphical Abstract.png">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;"></div>
+    padding: 2px;">Potential impact of building renovation: A forecast suggests that global new construction could decrease by 57 billion square meters during 2021-2070, as evaluated by our global building stock model (GLOBUS), which integrates turnover and renovation dynamics.</div>
 </center>
-
 
 
 

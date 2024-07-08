@@ -29,8 +29,8 @@ To ensure the reliability of our database, we used the [IEA dataset](https://www
 
 In 2023-2024, some of GLOBE's noteworthy applications have been featured in international journals like *Nexus (Cell Press Partner Journal)*, *Advances in Applied Energy*, *Applied Energy*, and *Sustainable Cities and Society*.
 
-[1] Zhang S, Ma M, Zhou N, Yan J, Feng W, Yan R, et al. Estimation of Global Building Stocks by 2070: Unlocking Renovation Potential. *Nexus* 2024.
-[2] Yuan H, Ma M, Zhou N, Xie H, Ma Z, Xiang X, Ma X. Battery electric vehicle charging in China: Energy demand and emissions trends in the 2020s. *Applied Energy* 2024;365:123153.
+[1] Zhang S, Ma M\*, Zhou N, Yan J, Feng W, Yan R, et al. Estimation of Global Building Stocks by 2070: Unlocking Renovation Potential. *Nexus* 2024.
+[2] Yuan H, Ma M\*, Zhou N, Xie H, Ma Z, Xiang X, Ma X. Battery electric vehicle charging in China: Energy demand and emissions trends in the 2020s. *Applied Energy* 2024;365:123153.
 [3] Xiang X, Zhou N, Ma M\*, Feng W, Yan R. Global transition of operational carbon in residential buildings since the millennium. *Advances in Applied Energy* 2023;11:100145.
 [4] Yan R, Ma M\*, Zhou N, Feng W, Xiang X, Mao C. Towards COP27: Decarbonization patterns of residential building in China and India. *Applied Energy* 2023;352:122003.
 [5] Yan R, Chen M, Xiang X, Feng W, Ma M\*. Heterogeneity or illusion? Track the carbon Kuznets curve of global residential building operations. *Applied Energy* 2023;347:121441.

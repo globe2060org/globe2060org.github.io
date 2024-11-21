@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +6,126 @@
     <title>Globevisa</title>
 </head>
 <body>
-    <h1>Welcome to Globevisa</h1>
+    <h1>Globevisa section</h1>
     <img src="image_temp/PHEV-Abstract.png" alt="PHEV" style="width:100%; height:auto;">
     <p>This is the new subpage content for Globevisa.</p>
 </body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Globevisa Section</title>
+
+  <!-- 引入通用样式 -->
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* 导航栏样式 */
+    .guide {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background-color: rgb(25, 83, 130);
+      z-index: 1000;
+    }
+
+    .guide ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    .guide li {
+      margin: 0 10px;
+    }
+
+    .guide a {
+      color: rgb(78, 227, 153);
+      text-decoration: none;
+      font-size: 20px;
+      padding: 5px 15px;
+      border: 2px solid black;
+      border-radius: 5px;
+      transition: background-color 0.3s, border-color 0.3s;
+    }
+
+    .guide a:hover {
+      background-color: white;
+      color: #333;
+    }
+
+    /* 内容样式 */
+    .content {
+      margin-top: 60px;
+      padding: 20px;
+    }
+
+    .container_globe {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: rgb(25, 83, 130);
+      padding: 10px;
+      margin: 20px auto;
+      border-radius: 10px;
+      color: white;
+      max-width: 1200px;
+    }
+
+    .container_globe img {
+      margin-right: 20px;
+      max-width: 300px;
+      border-radius: 10px;
+    }
+
+    .container_globe p {
+      font-size: 18px;
+    }
+
+    /* 图片样式 */
+    .map {
+      width: 100%;
+      height: auto;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body style="transform: scale(0.75); transform-origin: top left; width: 133.33%;">
+
+  <!-- 导航栏 -->
+  <div class="guide">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/globevisa">Globevisa</a></li>
+      <li><a href="#about">About</a></li>
+    </ul>
+  </div>
+
+  <!-- 内容 -->
+  <div class="content">
+    <h1 style="text-align: center; color: rgb(25, 83, 130);">Welcome to Globevisa</h1>
+
+    <!-- 图片与文字介绍 -->
+    <div class="container_globe">
+      <img src="image_temp/PHEV-Abstract.png" alt="PHEV Abstract" />
+      <div>
+        <p><strong>Globevisa:</strong> This section provides insights into energy consumption and emissions trends for PHEVs under real-world conditions.</p>
+        <p>Stay tuned for more updates and detailed analyses from our ongoing research.</p>
+      </div>
+    </div>
+
+    <!-- 附加说明 -->
+    <p style="text-align: center; font-size: 18px; color: rgb(25, 83, 130);">
+      <a href="https://globe2060.org/" target="_blank" style="color: rgb(78, 227, 153); text-decoration: none;">Visit GLOBE Main Page</a>
+    </p>
+  </div>
+</body>
+
 </html>
+

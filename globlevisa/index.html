@@ -20,8 +20,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Globevisa Section</title>
 
-  <!-- 引入通用样式 -->
-  <link rel="stylesheet" href="styles.css" />
   <style>
     /* 导航栏样式 */
     .guide {
@@ -61,43 +59,44 @@
 
     /* 内容样式 */
     .content {
-      margin-top: 60px;
+      margin-top: 70px;
       padding: 20px;
     }
 
-    .container_globe {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: rgb(25, 83, 130);
-      padding: 10px;
-      margin: 20px auto;
+    .image-container {
+      max-width: 800px;
+      margin: 30px auto;
+      background-color: white;
+      padding: 20px;
       border-radius: 10px;
-      color: white;
-      max-width: 1200px;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+      text-align: center;
     }
 
-    .container_globe img {
-      margin-right: 20px;
-      max-width: 300px;
-      border-radius: 10px;
-    }
-
-    .container_globe p {
-      font-size: 18px;
-    }
-
-    /* 图片样式 */
-    .map {
+    .image-container img {
       width: 100%;
       height: auto;
-      margin: 0 auto;
+      border-radius: 10px;
+    }
+
+    .image-container p {
+      margin-top: 15px;
+      font-size: 18px;
+      color: rgb(25, 83, 130);
+      line-height: 1.6;
+    }
+
+    /* 全局样式 */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: rgb(240, 240, 240);
     }
   </style>
 </head>
 
-<body style="transform: scale(0.75); transform-origin: top left; width: 133.33%;">
-
+<body>
   <!-- 导航栏 -->
   <div class="guide">
     <ul>
@@ -107,25 +106,31 @@
     </ul>
   </div>
 
-  <!-- 内容 -->
+  <!-- 内容部分 -->
   <div class="content">
-    <h1 style="text-align: center; color: rgb(25, 83, 130);">Welcome to Globevisa</h1>
+    <h1 style="text-align: center; color: rgb(25, 83, 130);">PHEV section</h1>
 
-    <!-- 图片与文字介绍 -->
-    <div class="container_globe">
-      <img src="image_temp/PHEV-Abstract.png" alt="PHEV Abstract" />
-      <div>
-        <p><strong>Globevisa:</strong> This section provides insights into energy consumption and emissions trends for PHEVs under real-world conditions.</p>
-        <p>Stay tuned for more updates and detailed analyses from our ongoing research.</p>
-      </div>
+    <!-- 图片和介绍 -->
+    <div class="image-container">
+      <img src="Image/PHEV-Abstract.png" alt="PHEV Abstract" />
+      <p>
+        <strong>China's Plug-in Hybrid Electric Vehicle Transition:</strong>  
+        An operational carbon perspective.
+      </p>
+      <p>
+        Energy intensity (including electricity and gasoline) estimates for the top twenty selling PHEV models in 2022.  
+        Operational CO2 emissions across different regions in China (2020-2022), and spatial-temporal distributions of energy use and CO2 emissions for all top-selling PHEV models.
+      </p>
     </div>
 
-    <!-- 附加说明 -->
+     <!-- 附加说明 -->
     <p style="text-align: center; font-size: 18px; color: rgb(25, 83, 130);">
-      <a href="https://globe2060.org/" target="_blank" style="color: rgb(78, 227, 153); text-decoration: none;">Visit GLOBE Main Page</a>
+            <a href="https://globe2060.org/" target="_blank" style="color: rgb(78, 227, 153); text-decoration: none;">Visit GLOBE Main Page</a>
     </p>
+
   </div>
 </body>
 
 </html>
+
 
